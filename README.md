@@ -1,7 +1,7 @@
-# Nick's Slide Template (replace with talk title)
+# Ella's Slide Template (replace with talk title)
 <!-- NETLIFY BADGE SHOULD GO HERE-->
 
-This is a slide template I have put on github so that I can get started with talks easier.
+This is a slide template I have put on GitHub to make it easier to get started with talks (and in case others find useful!).
 
 # Abstract
 
@@ -22,25 +22,14 @@ This is a slide template I have put on github so that I can get started with tal
   - Slides made using [xaringan](https://github.com/yihui/xaringan)
   - Extended with
     [xaringanthemer](https://github.com/gadenbuie/xaringanthemer)
-  - Colours taken + modified from [lorikeet theme from
-    ochRe](https://github.com/ropenscilabs/ochRe)
-  - Header font is **Josefin Sans**
+  - Header font is **Cabin**
   - Body text font is **Montserrat**
-  - Code font is **Fira Mono**
+  - Code font is **Fira Code**
 
 # Bio
 
-Dr. Nicholas Tierney (PhD. Statistics, BPsySci (Honours)) is a Lecturer in Business Analytics and Statistics at Monash University, working with Professors
-[Dianne Cook](http://dicook.org/) and [Rob Hyndman](https://robjhyndman.com/). His research aims to improve data analysis
-workflow, and make data analysis more accessible. Crucial to this work is producing high quality software to
-accompany each research idea. Mostly recently, Nick's work is focussing on exploring longitudinal data ([brolgar](http://brolgar.njtierney.com/)), and improving how we share data alongside research ( [ddd](https://github.com/karthik/ddd)). Other work has focussed on exploring data
-with the R package [visdat](http://visdat.njtierney.com/), and on creating analysis principles and tools
-to simplify working with, exploring, and modelling missing data with the
-package [naniar](http://naniar.njtierney.com/). Nick has experience working with decision trees ([treezy](http://treezy.njtierney.com/)),
-optimisation ([maxcovr](http://maxcovr.njtierney.com/)), Bayesian Data Analysis, and MCMC diagnostics ([mmcc](http://mmcc.njtierney.com/).
+Hello! I am a PhD student in Statistics at the University of Warwick. I am part of the [OxWaSP programme](http://www.oxwasp-cdt.ac.uk). I am interested in Applied Statistics, particularly as applied in the Social Sciences. I am currently working on a project analysing data from applications to undergraduate statistics courses in the Statistics department at Warwick. I am supervised by [Dr Julia Brettschneider](https://warwick.ac.uk/fac/sci/statistics/staff/academic-research/brettschneider/) and [Dr Anastasia Papavasiliou](https://warwick.ac.uk/fac/sci/statistics/staff/academic-research/papavasiliou/).
 
-Nick is a member of the [rOpenSci](https://ropensci.org/) collective, which works to make science
-open using R, has been the lead organiser for the rOpenSci ozunconf
-events from 2016-2018 ([2016](https://auunconf.ropensci.org/), [2017](https://ozunconf17.ropensci.org/), [2018](https://ozunconf18.ropensci.org/)), and co-hosts the rstats podcast ["Credibly
-Curious"](https://soundcloud.com/crediblycurious) with [Dr. Saskia Freytag](https://careers.amsi.org.au/saskia/). Outside of research, Nick likes to
-hike, rockclimb, make coffee, bake sourdough, (eventually) knit a hat, take photos, and explore new hobbies.
+I am an R enthusiast. I am the author, along with [Prof David Firth](https://warwick.ac.uk/fac/sci/statistics/staff/academic-research/firth/) of the `BradleyTerryScalable package`, which is available on [GitHub](https://github.com/EllaKaye/BradleyTerryScalable). I am co-organiser of the [Oxford R User Group](https://www.meetup.com/Oxford-R-User-Group/) and also a member of the [Warwick R User Group](https://www.meetup.com/Warwick-useRs/).
+
+Prior to the PhD, my academic path has taken me from a BA in Mathematics and Philosophy (University of Oxford), through an MA in History and Philosophy of Science and Technology (University of Toronto), an MPhil in Mathematics Education (University of Cambridge) and an MSc in Applied Statistics (University of Oxford). I also have a PGCE in Secondary Mathematics, have taught at secondary school, and worked in market research.
