@@ -5,7 +5,7 @@ This is a slide template I have put on GitHub to make it easier to get started w
 
 # Abstract
 
-# Slides available [here](https://ellakaye.github.io/talk-template/slide-template.html#1)
+# Slides available [here](https://ellakaye.github.io/emk-talks/slide-template.html#1)
 Need to set up GitHub pages and edit link in `index.md` (assuming you change the file name of `slide-template.Rmd`)
 
 # Take home messages 
