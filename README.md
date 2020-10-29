@@ -6,7 +6,7 @@ This is a slide template I have put on GitHub to make it easier to get started w
 # Abstract
 
 # Slide available [here](https://ellakaye.github.io/talk-template/slide-template.html#1)
-Need to set up GitHub pages and edit link in index.md (assuming you change the file name of `slide-template.Rmd`)
+Need to set up GitHub pages and edit link in `index.md` (assuming you change the file name of `slide-template.Rmd`)
 
 # Take home messages 
 
@@ -18,7 +18,7 @@ Need to set up GitHub pages and edit link in index.md (assuming you change the f
 
 # Resources
 
-# Colophon
+# Slides
 
   - Slides made using [xaringan](https://github.com/yihui/xaringan)
   - Extended with
