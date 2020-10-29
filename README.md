@@ -3,25 +3,25 @@
 
 This is a slide template I have put on GitHub to make it easier to get started with talks (and in case others find useful!).
 
-# Event details
+## Event details
 Event where talk is taking place
 
-# Abstract
+## Abstract
 
-# Slides available [here](https://ellakaye.github.io/emk-talks/slide-template.html#1)
+## Slides available [here](https://ellakaye.github.io/emk-talks/slide-template.html#1)
 Need to set up GitHub pages and edit link in `index.md` (assuming you change the file name of `slide-template.Rmd`)
 
-# Take home messages 
+## Take home messages 
 
-1. Point one
-1. Point two
-1. Point three
+- Point one
+- Point two
+- Point three
 
-# Thanks
+## Thanks
 
-# Resources
+## Resources
 
-# Slides
+## Slides
 
   - Slides made using [xaringan](https://github.com/yihui/xaringan)
   - Extended with
@@ -30,7 +30,7 @@ Need to set up GitHub pages and edit link in `index.md` (assuming you change the
   - Body text font is **Montserrat**
   - Code font is **Fira Code**
 
-# Bio
+## Bio
 
 Hello! I am a PhD student in Statistics at the University of Warwick. I am part of the [OxWaSP programme](http://www.oxwasp-cdt.ac.uk). I am interested in Applied Statistics, particularly as applied in the Social Sciences. I am currently working on a project analysing data from applications to undergraduate statistics courses in the Statistics department at Warwick. I am supervised by [Dr Julia Brettschneider](https://warwick.ac.uk/fac/sci/statistics/staff/academic-research/brettschneider/) and [Dr Anastasia Papavasiliou](https://warwick.ac.uk/fac/sci/statistics/staff/academic-research/papavasiliou/).
 
