@@ -89,6 +89,18 @@ class: inverse, center, middle
 
 ---
 
+class: inverse, middle
+
+.large[
+- TAKE
+
+- HOME
+
+- MESSAGES
+]
+
+---
+
 class: left, end
 
 .right[# Thank you!
