@@ -3,6 +3,9 @@
 
 This is a slide template I have put on GitHub to make it easier to get started with talks (and in case others find useful!).
 
+# Event details
+Event where talk is taking place
+
 # Abstract
 
 # Slides available [here](https://ellakaye.github.io/emk-talks/slide-template.html#1)
