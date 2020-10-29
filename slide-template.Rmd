@@ -1,0 +1,108 @@
+---
+title: "TITLE"
+author: "Ella Kaye"
+date: "DATE"
+output:
+  xaringan::moon_reader:
+    includes:
+      in_header: header.html
+    seal: false
+    css: [xaringan-themer.css, extra.css]
+    lib_dir: libs
+    nature:
+      highlightStyle: solarized-light
+      highlightLines: true
+      countIncrementalSlides: false
+---
+<!-- To get a footer -->
+<!-- layout: true -->
+<!-- <div class="my-footer"><span>bit.ly/LINK • @ellamkaye</span></div>  -->
+
+```{r setup, include=FALSE}
+options(htmltools.dir.version = FALSE)
+knitr::opts_chunk$set(collapse = TRUE)
+```
+
+```{r xariganExtra, echo = FALSE, waring = FALSE}
+library(xaringanExtra)
+use_xaringan_extra(c("tile_view", "clipboard", "extra_css"))
+```
+
+---
+
+class: inverse, left, middle
+
+# TITLE
+
+.larger[Ella Kaye | EVENT | DATE]
+
+---
+
+# Me and R
+
+- Studying for a PhD in Statistics at the University of Warwick
+
+- Getting into R:
+
+  - 2014: first R course as part of Statistics MSc 
+  - 2015: first taste of `ggplot2` 
+  - 2016: first R package 
+  - 2017: first community involvement (useR!2017, [Oxford R User Group](https://r-oxford.github.io), [rainbowR](https://rainbowr.slack.com), [@R_LGBTQ](https://twitter.com/R_LGBTQ))
+  - 2020: first [TidyTuesday](https://github.com/rfordatascience/tidytuesday) contribution
+  - 2021: first ...
+  
+---
+
+# Overview
+
+
+---
+
+class: center, middle, inverse
+
+# SECTION 1 
+
+---
+
+# Some slides...
+
+---
+
+class: inverse, center, middle
+
+# RESOURCES
+
+---
+
+# Resources: Slides
+
+- Slides made with [xaringan](https://github.com/yihui/xaringan)
+
+- Slides styled with [xaringanthemer](https://github.com/gadenbuie/xaringanthemer)
+
+- Fonts from [Google Fonts](https://fonts.google.com):
+  - Header font in **Cabin**
+  - Body text font is **Montserrat**
+  - Code font is **Fira Code**
+  
+- Template available: [ellakaye/talk-template](https://github.com/EllaKaye/talk-template)
+
+---
+
+class: left, end
+
+.right[# Thank you!
+## Any questions?
+### <span style="color:#FDFCFA">Get in touch!</span>]
+
+.large[
+`r icon::fa('link')` [bit.ly/LINK]()
+
+`r icon::fa_paper_plane()` [E.Kaye.1@warwick.ac.uk](mailto:E.Kaye.1@warwick.ac.uk)
+
+`r icon::fa_twitter()` [@ellamkaye](https://twitter.com/ellamkaye)
+
+`r icon::fa_laptop()` [ellakaye.rbind.io](https://ellakaye.rbind.io)
+
+`r icon::fa_github()` [github.com/EllaKaye](https://github.com/ellakaye)
+]
