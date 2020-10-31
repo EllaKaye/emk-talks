@@ -35,7 +35,10 @@ meta() %>%
     title = "FILL_IN",
     url = "FILL_IN",
     image = "https://ellakaye.rbind.io/talk/TALK_NAME/cover-slide.png",
-    image_alt = "Cover slide",
+    image_alt = paste(
+      "Title slide of PRESENTATION NAME", 
+      "Presented at EVENT on DATE by Ella Kaye"
+    ),
     og_type = "website",
     og_author = "Ella Kaye",
     twitter_card_type = "summary_large_image",
