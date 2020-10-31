@@ -23,6 +23,27 @@ options(htmltools.dir.version = FALSE)
 knitr::opts_chunk$set(collapse = TRUE)
 ```
 
+```{r meta, echo=FALSE}
+library(metathis)
+meta() %>%
+  meta_general(
+    description = "FILL_IN",
+    generator = "xaringan and remark.js"
+  ) %>% 
+  meta_name("github-repo" = "ellakaye/FILL_IN") %>% 
+  meta_social(
+    title = "FILL_IN",
+    url = "FILL_IN",
+    image = "https://ellakaye.rbind.io/talk/TALK_NAME/cover-slide.png",
+    image_alt = "Cover slide",
+    og_type = "website",
+    og_author = "Ella Kaye",
+    twitter_card_type = "summary_large_image",
+    twitter_creator = "@ellamkaye"
+  )
+```
+
+
 ```{r xariganExtra, echo = FALSE, waring = FALSE}
 library(xaringanExtra)
 use_xaringan_extra(c("tile_view", "clipboard", "extra_css"))
