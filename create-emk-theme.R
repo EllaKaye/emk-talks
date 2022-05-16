@@ -1,8 +1,8 @@
 library(xaringanthemer)
 
 emk_colours <- list(
-  pink = "#D40067",
-  blue = "#0079D1",
+  pink = "#D4006A",
+  blue = "#006AD4",
   pale = "#FDFCFA",
   dark = "#002B36",
   grey = "#586E75"
@@ -14,7 +14,7 @@ style_xaringan(
   header_color = emk_colours$pink,
   inverse_background_color = emk_colours$blue,
   text_font_google = google_font("Montserrat"),
-  code_font_google = google_font("Fira Code"),
+  code_font_google = google_font("Fira Mono"),
   inverse_text_color = emk_colours$pale,
   text_color = emk_colours$dark,
   text_bold_color = emk_colours$pink,
