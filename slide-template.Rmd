@@ -20,7 +20,7 @@ output:
 
 ```{r setup, include=FALSE}
 options(htmltools.dir.version = FALSE)
-knitr::opts_chunk$set(collapse = TRUE)
+knitr::opts_chunk$set(collapse = TRUE, fig.retina = 3)
 ```
 
 ```{r meta, echo=FALSE}
@@ -45,7 +45,6 @@ meta() %>%
     twitter_creator = "@ellamkaye"
   )
 ```
-
 
 ```{r xariganExtra, echo = FALSE, waring = FALSE}
 library(xaringanExtra)
