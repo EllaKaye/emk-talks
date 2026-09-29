@@ -1,3 +1,7 @@
+> [!NOTE]  
+> The repo/template is archived. It has been superseded by <https://github.com/EllaKaye/ellakayepres>, a Quarto revealjs presentation format. 
+
+
 # Ella's Slide Template (replace with talk title)
 <!-- NETLIFY BADGE SHOULD GO HERE-->
 
